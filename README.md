@@ -410,7 +410,7 @@ This project is available under the license specified in the repository.
 ---
 
 ## 👨‍💻 Author
-M.Hari hara vara prasad
+M.jithendra
 
 Built as a full-stack web development project to explore:
 
